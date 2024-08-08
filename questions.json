@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Which country has the largest land area in the world?",
+    "answers": ["Russia", "Canada", "China", "United States"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Which country is the most populous?",
+    "answers": ["India", "United States", "Indonesia", "China"],
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "Which ocean lies on the east coast of the United States?",
+    "answers": ["Pacific", "Atlantic", "Indian", "Arctic"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Which continent is known as the 'Dark Continent'?",
+    "answers": ["Africa", "Asia", "South America", "Australia"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "What is the capital of Canada?",
+    "answers": ["Toronto", "Vancouver", "Ottawa", "Montreal"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "Which country is known as the Land of the Rising Sun?",
+    "answers": ["China", "South Korea", "Japan", "Thailand"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "Which river is the longest in the world?",
+    "answers": ["Amazon", "Nile", "Yangtze", "Mississippi"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Which country is not a permanent member of the UN Security Council?",
+    "answers": ["Russia", "China", "Germany", "France"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "Which country has the highest GDP in the world?",
+    "answers": ["China", "United States", "Japan", "Germany"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Which city is the capital of Australia?",
+    "answers": ["Sydney", "Melbourne", "Perth", "Canberra"],
+    "correctAnswerIndex": 3
+  }
+]
